@@ -1,0 +1,20 @@
+*{
+    font-family: monospace;
+}
+
+#icone{
+    height: 70px;
+}
+
+table{
+    width: 100%;
+    border-bottom: 5px solid black;
+}
+#iconglobe{
+    width: 20%;
+}
+.elements{
+    width: 10%;
+    text-align: center;
+    border-left: 1px solid black;
+}
