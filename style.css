@@ -12,6 +12,7 @@ body{
 table{
     width: 100%;
     border-bottom: 5px solid black;
+    margin-top: auto;
 }
 #iconglobe{
     width: 20%;
@@ -26,8 +27,11 @@ table{
 }
 
 #first{
-    background-image: url(img/legal-place-holders/world-mapfull.jpg);
+    background-image: url(img/legal-place-holders/map-world-black-and-white-history-atlas-organism-1450905-pxhere.com.jpg);
     height: 400px;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    
 }
 
 .impact{
@@ -41,3 +45,4 @@ table{
 p{
     font-size: 20px;
 }
+
