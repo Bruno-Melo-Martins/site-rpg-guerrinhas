@@ -1,9 +1,11 @@
 *{
     font-family: monospace;
 }
-
+body{
+    background-image: url(img/legal-place-holders/papertexturefull.jpg);
+}
 #icone{
-    height: 70px;
+    height: 90px;
 }
 
 table{
@@ -17,4 +19,12 @@ table{
     width: 10%;
     text-align: center;
     border-left: 1px solid black;
+}
+#warlogo{
+    height: 90px;
+}
+
+#first{
+    background-image: url(img/legal-place-holders/world-mapfull.jpg);
+    height: 400px;
 }
