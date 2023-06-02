@@ -1,5 +1,6 @@
 *{
     font-family: monospace;
+    text-justify: auto;
 }
 body{
     background-image: url(img/legal-place-holders/papertexturefull.jpg);
@@ -27,4 +28,16 @@ table{
 #first{
     background-image: url(img/legal-place-holders/world-mapfull.jpg);
     height: 400px;
+}
+
+.impact{
+    text-align: end;
+    font-size: 75px;
+    border-bottom: 5px solid black;
+    height: 67px;
+    margin-top: auto;
+}
+
+p{
+    font-size: 20px;
 }
