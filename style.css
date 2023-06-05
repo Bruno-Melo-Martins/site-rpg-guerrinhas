@@ -1,6 +1,5 @@
 *{
     font-family: monospace;
-    text-justify: auto;
 }
 body{
     background-image: url(img/legal-place-holders/papertexturefull.jpg);
@@ -9,7 +8,7 @@ body{
     height: 90px;
 }
 
-table{
+#cabec{
     width: 100%;
     border-bottom: 5px solid black;
     margin-top: auto;
@@ -29,7 +28,7 @@ table{
 
 #first{
     background-image: url(img/legal-place-holders/mapbw1500top.jpg);
-    height: 284px;
+    height: 315px;
     background-repeat: no-repeat;
     background-size: 100% ;
     
@@ -45,5 +44,25 @@ table{
 
 p{
     font-size: 20px;
+    text-align: justify;
 }
 
+#parallax{
+    width: 100%;
+}
+
+#wl{
+    width: 50%;
+}
+
+#cp{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+#comp{
+    height: 200px;
+
+}
