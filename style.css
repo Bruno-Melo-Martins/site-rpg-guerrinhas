@@ -18,17 +18,18 @@ table{
     width: 20%;
 }
 .elements{
-    width: 10%;
+    width: 5%;
     text-align: center;
     border-left: 1px solid black;
+    font-size: 115%;
 }
 #warlogo{
     height: 90px;
 }
 
 #first{
-    background-image: url(img/legal-place-holders/map-world-black-and-white-history-atlas-organism-1450905-pxhere.com.jpg);
-    height: 400px;
+    background-image: url(img/legal-place-holders/mapbw1500top.jpg);
+    height: 284px;
     background-repeat: no-repeat;
     background-size: 100% ;
     
