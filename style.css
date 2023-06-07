@@ -12,7 +12,14 @@ body{
     width: 100%;
     border-bottom: 5px solid black;
     margin-top: auto;
+    background-color: rgba(173, 173, 173, 0.358);
 }
+
+a:link,a:visited,a:hover,a:active{
+    text-decoration: none;
+    color:black
+}
+
 #iconglobe{
     width: 20%;
 }
@@ -45,24 +52,4 @@ body{
 p{
     font-size: 20px;
     text-align: justify;
-}
-
-#parallax{
-    width: 100%;
-}
-
-#wl{
-    width: 50%;
-}
-
-#cp{
-    width: 50%;
-    margin-right: auto;
-    margin-left: auto;
-    
-}
-
-#comp{
-    height: 200px;
-
 }
